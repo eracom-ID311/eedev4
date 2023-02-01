@@ -3,10 +3,8 @@
 📅 Dates: du 26 janvier au 22 juin 2023  
 ⏰ Horaire: jeudi – 8h15 à 11h45  
 Classe: ID311  
-Acronyme cours: EEDEV  
-Catégorie: Elaboration du design  
 Enseignant: Manuel Schmalstieg  
-Lien: [https://code.eracom-pedagogique.ch/eedev2-id311/](https://code.eracom-pedagogique.ch/eedev2-id311/)  
+Lien: [https://eracom-id311.github.io/eedev4/](https://eracom-id311.github.io/eedev4/)  
 Github: [https://github.com/eracom-id311](https://github.com/eracom-id311)
 
 
@@ -20,3 +18,14 @@ Ce quatrième cours "Développement d'interfaces" est centré autour des CMS, le
 
 ## Les projets évalués
 
+1. Produire une "fiche informative" sur un CMS. Objectif: connaître la diversité des CMS, identifier les plus utilisés, connaître leurs points forts et ce qui les distingue.
+2. Installer un CMS (WordPress), et faire une recherche sur un aspect, une thématique, une caractéristique de ce CMS. Cela peut être: Configurer les menus. Configurer les Widgets. Apprendre à utiliser un certain plugin. Gérer le multilingue. Améliorer le SEO. Activer et gérer le Multisite. L'enjeu des "page builders"...
+3. En lien avec le WordCamp Switzerland.
+4. "Mockup to CMS": design d'un site avec WordPress, sur la base d'un modèle visuel.
+
+## Liens utiles
+
+- La conférence [WordCamp Switzerland 2023](https://switzerland.wordcamp.org/2023/)
+
+- Un [support de cours WordPress](https://cours-web.ch/wp/)
+- Un [lexique WordPress](http://cours-web.ch/wp-module-1/lexique.html)
