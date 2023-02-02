@@ -26,3 +26,23 @@ Les élèves utilisent à trois différentes méthodes:
 - Un WordPress "COM" sur WordPress.com
 - Un WordPress "ORG" (auto-géré) chez un hébergeur (comme Infomaniak, Kreativmedia...)
 - En local sur son ordinateur, avec un logiciel comme MAMP ou [LocalWP](https://localwp.com/)
+
+---
+
+## Cours N°2 - jeudi 2 février
+
+Thèmes "prise en main" de WordPress traités:
+
+- Articles / Pages
+- Menus
+- Gestion des médias
+- Widgets
+
+Encore à voir:
+
+- Catégories et Tags (étiquettes)
+- Réglages de la page d'accueil
+- Utilisateurs
+- Les Thèmes
+
+Un [Document Figma](https://www.figma.com/file/Ooezt7xUnewUG8v1OjJzRZ/Bases?t=lDOHoNXSBczP87QU-6) a été créé, pour centraliser les informations WordPress.
