@@ -35,18 +35,18 @@ Premières deux périodes: travail sur les fiches informatives. Certains CMS son
 
 Périodes 3 et 4: Prise en main de l'interface de WordPress. Des thèmes sont assignés.
 
-Les thèmes "prise en main" de WordPress traités:
+Les thèmes traités :
 
-- Articles / Pages
-- Menus
-- Gestion des médias
-- Widgets
+- Articles / Pages - Kelly et Robin
+- Menus - Lenny
+- Gestion des médias - Charline
+- Widgets - Emilien
 
-Les thèmes encore à voir:
+Les thèmes encore à voir :
 
-- Catégories et Tags (étiquettes)
-- Réglages de la page d'accueil
-- Utilisateurs
-- Les Thèmes
+- Catégories et Tags (étiquettes) - Florian et Jérémy
+- Réglages de la page d'accueil - Eric
+- Utilisateurs - Xavier
+- Les Thèmes - Romane
 
 Un [Document Figma](https://www.figma.com/file/Ooezt7xUnewUG8v1OjJzRZ/Bases?t=lDOHoNXSBczP87QU-6) a été créé, pour centraliser les informations WordPress.
