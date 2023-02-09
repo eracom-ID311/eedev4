@@ -31,14 +31,18 @@ Les élèves utilisent à trois différentes méthodes:
 
 ## Cours N°2 - jeudi 2 février
 
-Thèmes "prise en main" de WordPress traités:
+Premières deux périodes: travail sur les fiches informatives. Certains CMS sont installés dans Infomaniak (Typo3, Drupal).
+
+Périodes 3 et 4: Prise en main de l'interface de WordPress. Des thèmes sont assignés.
+
+Les thèmes "prise en main" de WordPress traités:
 
 - Articles / Pages
 - Menus
 - Gestion des médias
 - Widgets
 
-Encore à voir:
+Les thèmes encore à voir:
 
 - Catégories et Tags (étiquettes)
 - Réglages de la page d'accueil
