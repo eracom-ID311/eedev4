@@ -50,3 +50,11 @@ Les thèmes encore à voir :
 - Les Thèmes - Romane
 
 Un [Document Figma](https://www.figma.com/file/Ooezt7xUnewUG8v1OjJzRZ/Bases?t=lDOHoNXSBczP87QU-6) a été créé, pour centraliser les informations WordPress.
+
+## Cours N°3 - jeudi 9 février
+
+Ce cours est dédié aux présentations des CMS étudiés par les élèves. Les supports de présentation [se trouvent dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID311_Teams/EjFM5_1zOf9OnKwJrC1lQcUBQ0ijr0Kg5JEb9bIb6Is_xA?e=9K6R15).
+
+## Cours N°4 - jeudi 23 février
+
+Au programme: présentation de Joomla (par Romane), et suite de la prise en main de WordPress.
