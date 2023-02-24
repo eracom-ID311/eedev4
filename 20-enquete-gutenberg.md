@@ -6,7 +6,7 @@ permalink: enquete-gutenberg.html
 
 **Mission N°2** : enquêter sur un sujet lié à l'éditeur Gutenberg (alias l'éditeur de blocs)
 
-Thèmes attribués pour la tâche : "Enquête sur Gutenberg" :
+Les thèmes attribués pour la tâche : "Enquête sur Gutenberg" :
 
 - **Templates** (Modèles) et "Template Parts" : Kelly, Steven
 - **Block Patterns** (Compositions) : Eric
@@ -21,9 +21,19 @@ Thèmes attribués pour la tâche : "Enquête sur Gutenberg" :
 **Planning:** travail durant les séances du 2 et 9 mars (8 périodes).  
 **Forme finale:** un enregistrement vidéo de maximum 5 minutes.
 
+## Critères d'évaluation
+
+Ce travail fait l'objet d'une note. Les critères d'évaluation sont les suivants:
+
+- **Pertinence:** les informations sont complètes et correctes.
+- **Clarté:** les explications sont claires et compréhensibles.
+- **Visuel:** les images (enregistrement d'écran) aide à la compréhension.
+
 ## Objectif final
 
-L'idéal serait d'aboutir à une vidéo complète, en plusieurs chapitres, qui explique le rôle et modes d'utilisation de Gutenberg. 
+L'objectif d'assembler les séquences vidéo produites en une vidéo complète, en plusieurs chapitres, qui explique les différents aspects de l'éditeur Gutenberg.
+
+Si nous jugeons le résultat concluant, nous pourrions proposer la vidéo à la publication sur learn.wordpress.org, où il existe peu de ressources en français.
 
 ## Quelques liens utiles
 

@@ -18,8 +18,8 @@ Ce quatrième cours "Développement d'interfaces" est centré autour des CMS, le
 
 ## Les projets évalués
 
-1. **Produire une "fiche informative" sur un CMS**. Objectif: connaître la diversité des CMS, identifier les plus utilisés, connaître leurs points forts et ce qui les distingue.
-2. **[Enquête Gutenberg](https://eracom-id311.github.io/eedev4/enquete-gutenberg.html)**
+1. **[Produire une "fiche informative" sur un CMS](https://eracom-id311.github.io/eedev4/fiches-informatives.html)**. Objectif: connaître la diversité des CMS, identifier les plus utilisés, connaître leurs points forts et ce qui les distingue.
+2. **[Enquête Gutenberg](https://eracom-id311.github.io/eedev4/enquete-gutenberg.html)**. Objectif: comprendre le fonctionnement du CMS WordPress.
 3. **Travail en lien avec le WordCamp Switzerland**. Approfondir la recherche, p.ex. par une interview avec un-e professionnel-le, ou un commentaire écrit au sujet d'une conférence. 
 4. **"Mockup to CMS"**: design d'un site avec WordPress, sur la base d'un modèle visuel.
 
