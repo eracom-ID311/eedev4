@@ -4,6 +4,8 @@ title: Fiches informatives
 permalink: fiches-informatives.html
 ---
 
+**Mission N°1** : développer une fiche informative sur un CMS.
+
 Les aspects demandés:
 
 - Forces et faiblesses, particularités, infos techniques (2 pts)

@@ -4,10 +4,12 @@ title: Enquête Gutenberg
 permalink: enquete-gutenberg.html
 ---
 
-Thèmes attribués pour la tâche N°2: "Enquête sur Gutenberg" :
+**Mission N°2** : enquêter sur un sujet lié à l'éditeur Gutenberg (alias l'éditeur de blocs)
+
+Thèmes attribués pour la tâche : "Enquête sur Gutenberg" :
 
 - **Templates** (Modèles) et "Template Parts" : Kelly, Steven
-- **Block Patterns** : Eric
+- **Block Patterns** (Compositions) : Eric
 - **Reusable Blocks** : Florian, Xavier
 - **Block Theme Styles** : Charline, Emilien
 - **Fluid Typography** et **Theme.json** : Lenny
@@ -30,7 +32,10 @@ L'idéal serait d'aboutir à une vidéo complète, en plusieurs chapitres, qui e
 - Un tutoriel vidéo : [The Difference Between Reusable Blocks, Block Patterns, Templates & Template Parts](https://learn.wordpress.org/tutorial/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - Un plan de leçon sur le site *Learn WordPress* : [Difference between Reusable Blocks, Block Pattern, Templates, Template Parts](https://learn.wordpress.org/lesson-plan/difference-between-reusable-blocks-block-pattern-templates-template-parts/)
 
-https://wordpress.org/documentation/article/blocks-list/
+Une liste de tous les blocs existants: [https://wordpress.org/documentation/article/blocks-list/](https://wordpress.org/documentation/article/blocks-list/)
+
+Infos sur les Block Patterns (en français: Compositions): 
+[https://fr.wordpress.org/patterns/](https://fr.wordpress.org/patterns/)
 
 L'extension *Create Block Theme Plugin*:
 

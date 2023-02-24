@@ -42,7 +42,7 @@ Les thèmes traités :
 - Gestion des médias - Charline
 - Widgets - Emilien
 
-Les thèmes encore à voir :
+Les sujets encore à voir :
 
 - Catégories et Tags (étiquettes) - Florian et Jérémy
 - Réglages de la page d'accueil - Eric
@@ -54,6 +54,13 @@ Un [Document Figma](https://www.figma.com/file/Ooezt7xUnewUG8v1OjJzRZ/Bases?t=lD
 ## Cours N°3 - jeudi 9 février
 
 Ce cours est dédié aux présentations des CMS étudiés par les élèves. Les supports de présentation [se trouvent dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID311_Teams/EjFM5_1zOf9OnKwJrC1lQcUBQ0ijr0Kg5JEb9bIb6Is_xA?e=9K6R15).
+
+Nous faisons avec un exercice: quatre entreprises vous mandatent pour conseiller un CMS pour leur site.
+
+- Un entrepreneur indépendant.
+- Une institution culturelle.
+- Une startup/entreprise.
+- Un gouvernement national.
 
 ## Cours N°4 - jeudi 23 février
 
@@ -69,7 +76,7 @@ Des notes ont été prises dans le [Document Figma](https://www.figma.com/file/O
 
 Visionnement de 15 minutes de la conférence "[State of the Word 2022](https://wordpress.tv/2023/01/04/matt-mullenweg-state-of-the-word-2022/)". 
 
-Thèmes attribués pour la tâche N°2: "Enquête sur Gutenberg" :
+Les thèmes attribués pour la tâche N°2: "Enquête sur Gutenberg" :
 
 - Templates (Modèles) et "Template Parts" : Kelly, Steven
 - Block Patterns : Eric
