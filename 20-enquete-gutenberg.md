@@ -47,8 +47,11 @@ Une liste de tous les blocs existants: [https://wordpress.org/documentation/arti
 Infos sur les Block Patterns (en français: Compositions): 
 [https://fr.wordpress.org/patterns/](https://fr.wordpress.org/patterns/)
 
+Un exemple: [le thème Tove](https://wordpress.org/themes/tove/) comprend un grand nombre de Patterns. De même que le thème [Twenty Twenty-Two](https://wordpress.org/themes/twentytwentytwo/).
+
 L'extension *Create Block Theme Plugin*:
 
 - [Lien de l'extension](https://wordpress.org/plugins/create-block-theme/)
 - [Un article](https://wptavern.com/wordpress-themes-team-releases-new-plugin-for-creating-block-themes) qui décrit les capacités de ce plugin.
 
+Sur les **Block Theme Styles**, voir [la vidéo de démonstration de Twenty-Twenty-Three](https://www.youtube.com/watch?v=LIFztRUNLNc)
