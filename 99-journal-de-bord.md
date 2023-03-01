@@ -64,7 +64,7 @@ Nous faisons avec un exercice: quatre entreprises vous mandatent pour conseiller
 
 ## Cours N°4 - jeudi 23 février
 
-Suite découverte du CMS WordPress.
+Suite de la découverte du CMS WordPress.
 
 Présentation de 3 sujets "Initiation à WordPress":
 
