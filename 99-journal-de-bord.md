@@ -29,7 +29,7 @@ Les élèves utilisent à trois différentes méthodes:
 
 ---
 
-## Cours N°2 - jeudi 2 février
+## Cours N°2 - 2 février
 
 Premières deux périodes: travail sur les fiches informatives. Certains CMS sont installés dans Infomaniak (Typo3, Drupal).
 
@@ -51,7 +51,7 @@ Les sujets encore à voir :
 
 Un [Document Figma](https://www.figma.com/file/Ooezt7xUnewUG8v1OjJzRZ/Bases?t=lDOHoNXSBczP87QU-6) a été créé, pour centraliser les informations WordPress.
 
-## Cours N°3 - jeudi 9 février
+## Cours N°3 - 9 février
 
 Ce cours est dédié aux présentations des CMS étudiés par les élèves. Les supports de présentation [se trouvent dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID311_Teams/EjFM5_1zOf9OnKwJrC1lQcUBQ0ijr0Kg5JEb9bIb6Is_xA?e=9K6R15).
 
@@ -62,7 +62,7 @@ Nous faisons avec un exercice: quatre entreprises vous mandatent pour conseiller
 - Une startup/entreprise.
 - Un gouvernement national.
 
-## Cours N°4 - jeudi 23 février
+## Cours N°4 - 23 février
 
 Suite de la découverte du CMS WordPress.
 
@@ -90,3 +90,11 @@ Les thèmes attribués pour la tâche N°2: "Enquête sur Gutenberg" :
 
 **Planning:** travail durant les séances du 2 et 9 mars (8 périodes).  
 **Forme finale:** un enregistrement vidéo de maximum 5 minutes.
+
+## Cours N°5 – 2 mars
+
+Cours en présente de Mme Camille Vitré.
+
+## Cours N°6 - 9 mars
+
+Production des tutoriels vidéo: à la fin du cours, 8 tutoriels sont produits et déposés dans Teams
