@@ -97,4 +97,14 @@ Cours en présente de Mme Camille Vitré.
 
 ## Cours N°6 - 9 mars
 
-Production des tutoriels vidéo: à la fin du cours, 8 tutoriels sont produits et déposés dans Teams
+Production des tutoriels vidéo: à la fin du cours, 8 tutoriels sont produits et déposés dans Teams.
+
+## Cours N°7 - 16 mars
+
+Visionnement des tutoriels vidéo. Eclaircissement de certains points pas entièrement clairs dans les vidéos.
+
+Tâches traitées:
+
+- Chaque élève définit son thème de recherche pendant la journée WordCamp. Voir quelques idées sous [WordCamp](wordcamp.html).
+- Définir comment seront publiés les articles - un site dédié qui les regroupe ? Utiliser le domaine ID311.ch (ou eracom-pedagogique.ch)? Choisir un thème WP, un style visuel.
+- Définir des objectifs précis pour l'écriture des articles. Trouver des exemples pour servir de modèle. Cela peut être utile d'avoir une structure imposée.

@@ -16,11 +16,9 @@ Horaires:
 
  Train conseillé: 
 
- 08:13 - départ lausanne (S9, Voie 70, Direction Kerzers)  
+ **08:13** - départ Lausanne (S9, Voie 70, Direction Kerzers)  
  09:49 - arrivée Muntelier-Löwenberg
 
- Ou, aussi possible: 09:13 - 10:49  
- Permet de voir deux conférences avant la pause de midi.
 
 ## Conférences intéressantes:
 
