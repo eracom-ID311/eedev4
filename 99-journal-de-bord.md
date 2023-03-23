@@ -105,6 +105,20 @@ Visionnement des tutoriels vidéo. Eclaircissement de certains points pas entiè
 
 Tâches traitées:
 
-- Chaque élève définit son thème de recherche pendant la journée WordCamp. Voir quelques idées sous [WordCamp](wordcamp.html).
+- Chaque élève définit **son thème de recherche** pendant la journée WordCamp. Voir quelques idées sous [WordCamp](wordcamp.html).
 - Définir comment seront publiés les articles - un site dédié qui les regroupe ? Utiliser le domaine ID311.ch (ou eracom-pedagogique.ch)? Choisir un thème WP, un style visuel.
-- Définir des objectifs précis pour l'écriture des articles. Trouver des exemples pour servir de modèle. Cela peut être utile d'avoir une structure imposée.
+- Définir des objectifs précis pour **l'écriture des articles**. Trouver des exemples pour servir de modèle. Cela peut être utile d'avoir une structure imposée.
+
+## Cours N°8 - 23 mars
+
+Activation du site [ID311.ch](https://id311.ch/) - le domaine a été lié à un hébergement WordPress dans le compte Infomaniak de l'Eracom. Création d'un compte admin pour chaque élève. [Lien de la page de login](https://id311.ch/wp-admin/). Emilien et Romane choisissent un thème, [Blockster](https://wordpress.org/themes/blockster/). Quelques modifications sont faites aux Templates par Jérémy, Eric, Romane.
+
+Florian a uploadé les tutoriels vidéo, pour les présenter sur une page. 
+
+Charline a créé un début de page Portfolio.
+
+Charline et Jérémy étudient des exemples de blog, rédigent un document de recommandations (voir [dans Teams](https://eduvaud.sharepoint.com/:b:/s/ERACOM_ID311_Teams/EbNDb_cLl2FPtlLzOX3bIsUBRyuZvpVLgpis4D6uCjbxGQ?e=NVUjnn)).
+
+Contenus à ajouter dans le site:
+- Un résumé de votre thématique choisie, dans un Article (dans catégories WordPress et WordCamp). Tagger l'article avec un mot-clé correspondant à la thématique.
+- Ajouter une image et un lien vers votre site-portfolio dans la page correspondante.
