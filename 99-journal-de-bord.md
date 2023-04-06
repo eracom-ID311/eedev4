@@ -122,3 +122,25 @@ Charline et Jérémy étudient des exemples de blog, rédigent un document de re
 **Contenus à ajouter dans le site:**
 - Un **résumé** de votre thématique choisie, dans un Article (dans catégories WordPress et WordCamp). Tagger l'article avec un mot-clé correspondant à la thématique.
 - Ajouter une image et un lien vers votre site-portfolio dans la page correspondante.
+
+## Cours N°9 - 31 mars
+
+- Mise à jour du site ID311.ch avec la nouvelle version [WordPress 6.2 “Dolphy”](https://wordpress.org/news/2023/03/dolphy/).
+- Ecriture de résumé / manifeste pour chaque article.
+- Préparation d'une fiche d'informations / questions.
+- On complète la page Portfolio.
+
+
+## Participation au WordCamp - samedi 1er avril
+
+Participation de 8 élèves au WordCamp.  
+Trajet Lausanne - Morat avec le train de 8h13.   
+Lenny réalise un entretien avec JB Audras.  
+Charline réalise un entretien avec Patricia BT et Michelle Bulloch.
+
+## Cours N°10 - 6 avril
+
+- Présentation sur le travail de [Craig Mod](https://craigmod.com/), designer / photographe / écrivain.
+- Feedback sur le WordCamp.
+- Travail d'écriture sur les articles.
+- Réflexion sur la direction artistique globale, modification de certains styles globaux (les espacements par défaut des blocs).
