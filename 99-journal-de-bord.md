@@ -129,14 +129,16 @@ Charline et Jérémy étudient des exemples de blog, rédigent un document de re
 - Ecriture de résumé / manifeste pour chaque article.
 - Préparation d'une fiche d'informations / questions.
 - On complète la page Portfolio.
+- Amélioration de la page d'accueil
+- Modification de certains modèles de page
 
 
 ## Participation au WordCamp - samedi 1er avril
 
-Participation de 8 élèves au WordCamp.  
-Trajet Lausanne - Morat avec le train de 8h13.   
-Lenny réalise un entretien avec JB Audras.  
-Charline réalise un entretien avec Patricia BT et Michelle Bulloch.
+- Participation de 8 élèves au WordCamp.  
+- Trajet Lausanne - Morat avec le train de 8h13.   
+- Lenny réalise un entretien avec JB Audras.  
+- Charline réalise un entretien avec Patricia BT et Michelle Bulloch.
 
 ## Cours N°10 - 6 avril
 
@@ -144,3 +146,4 @@ Charline réalise un entretien avec Patricia BT et Michelle Bulloch.
 - Feedback sur le WordCamp.
 - Travail d'écriture sur les articles.
 - Réflexion sur la direction artistique globale, modification de certains styles globaux (les espacements par défaut des blocs).
+- Ecoute d'une playlist Jazz
