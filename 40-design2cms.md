@@ -14,11 +14,12 @@ Chaque élève choisit ou se voit attribuer un site modèle. L'élève détermin
 
 ## Instructions ☝️
 
-Contraintes définies :  
-Reproduire la page d'accueil.  
-Reproduire une page ou article interne du site.  
-Il est autorisé d'utiliser des exentions ajoutant des nouveaux blocs si nécessaire.  
-Il faut appliquer du "custom CSS" dès que c'est pertinent.  
+Contraintes définies :
+
+- Reproduire la page d'accueil.  
+- Reproduire une page ou article interne du site.  
+- Il est autorisé d'utiliser des exentions ajoutant des nouveaux blocs si nécessaire.  
+- Il faut appliquer du "custom CSS" dès que c'est pertinent.  
 
 ## Production à rendre 💾
 
