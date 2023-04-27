@@ -156,3 +156,7 @@ Charline et Jérémy étudient des exemples de blog, rédigent un document de re
   - [Formulaire de recherche trop large en mobile](https://github.com/eracom-ID311/site-wordpress-id311/issues/6)
 - L'écriture d'un article pour Linkedin est en préparation par Robin.
 - Quelques infos communiquées sur le prochain projet, [Design 2 CMS](https://eracom-id311.github.io/eedev4/design2cms.html)
+
+Bonus:
+
+- Partage par Lenny du site [Frontend Mentor](https://www.frontendmentor.io/home)
