@@ -21,7 +21,7 @@ Contraintes définies :
 - Il est autorisé d'utiliser des extensions ajoutant des nouveaux blocs si nécessaire. Exemple: accordéon, carte, slider...  
 - Ne pas hésiter à appliquer du "custom CSS" dès que c'est pertinent.  
 
-## Production à rendre 💾
+## Production à rendre 📦
 
 - Le site accessible en ligne.
 - Un rapport écrit qui décrit le processus, explique les points ayant posé des questionnements, décrit les trouvailles et astuces découvertes. Longueur: environ une page A4, 400-600 mots.
