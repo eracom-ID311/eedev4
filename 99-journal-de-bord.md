@@ -93,7 +93,7 @@ Les thèmes attribués pour la tâche N°2: "Enquête sur Gutenberg" :
 
 ## Cours N°5 – 2 mars
 
-Cours en présente de Mme Camille Vitré.
+Cours en présence de Mme Camille Vitré.
 
 ## Cours N°6 - 9 mars
 
