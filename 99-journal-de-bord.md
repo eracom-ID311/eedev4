@@ -146,4 +146,3 @@ Charline et Jérémy étudient des exemples de blog, rédigent un document de re
 - Feedback sur le WordCamp.
 - Travail d'écriture sur les articles.
 - Réflexion sur la direction artistique globale, modification de certains styles globaux (les espacements par défaut des blocs).
-- Ecoute d'une playlist Jazz
