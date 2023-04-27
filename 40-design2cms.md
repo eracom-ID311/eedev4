@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Desgin to CMS
+title: Design to CMS
 permalink: design2cms.html
 ---
 
