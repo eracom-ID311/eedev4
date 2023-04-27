@@ -151,7 +151,7 @@ Charline et Jérémy étudient des exemples de blog, rédigent un document de re
 
 - Présentation des articles de Florian, Jérémy, Robin, Eric, Charline.
 - Relecture des articles, production de feedback (en utilisant [les méthodes de feedback](https://cours-web.ch/feedback/)).
-- Résolution de [plusieurs issues WordPress](https://github.com/eracom-ID311/site-wordpress-id311/issues), qui permettent d'utiliser le CSS Custom. Exemples:
+- Résolution de [plusieurs issues WordPress](https://github.com/eracom-ID311/site-wordpress-id311/issues?q=is%3Aissue), qui permettent d'utiliser le CSS Custom. Exemples:
   - [Accessibilité insuffisante des couleurs](https://github.com/eracom-ID311/site-wordpress-id311/issues/1)
   - [Formulaire de recherche trop large en mobile](https://github.com/eracom-ID311/site-wordpress-id311/issues/6)
 - L'écriture d'un article pour Linkedin est en préparation par Robin.
