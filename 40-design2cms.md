@@ -37,7 +37,7 @@ Contraintes définies :
 
 27 avril : choix du thème  
 4 mai : travail  
-11 mai : travail
-25 mai : travail
-1er juin : travail    
+11 mai : travail  
+25 mai : travail  
+1er juin : travail  
 **8 juin :** rendu en début de leçon (8h15). 
