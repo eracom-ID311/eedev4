@@ -18,8 +18,9 @@ Contraintes définies :
 
 - Reproduire la page d'accueil.  
 - Reproduire une page ou article interne du site.  
-- Il est autorisé d'utiliser des extensions ajoutant des nouveaux blocs si nécessaire. Exemple: accordéon, carte, slider...  
-- Ne pas hésiter à appliquer du "custom CSS" dès que c'est pertinent.  
+- Vous êtes libres d'utiliser des extensions ajoutant des nouveaux blocs si nécessaire. Exemple: accordéon, carte, slider...  
+- Ne pas hésiter à appliquer du "custom CSS" si c'est pertinent.
+- Nous ne tenons pas compte des "cookie banners", vous n'êtes pas obligé de les implémenter. 
 
 ## Production à rendre 📦
 
