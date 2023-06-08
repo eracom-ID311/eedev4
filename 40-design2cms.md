@@ -4,7 +4,7 @@ title: Design to CMS
 permalink: design2cms.html
 ---
 
-## Objectifs 🔭
+## Objectifs ⛳️
 
 Réaliser un site avec un CMS, sur la base d’un modèle visuel. Appliquer les méthodes apprises durant ce cours sur un cas concret et réaliste.
 
@@ -40,5 +40,5 @@ Contraintes définies :
 11 mai : travail  
 25 mai : travail  
 1er juin : travail  
-8 juin : travail
+8 juin : travail  
 **16 juin :** rendu en début de leçon (8h15).
