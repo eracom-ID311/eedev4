@@ -31,7 +31,7 @@ Contraintes définies :
 
 1. Conformité visuelle de l'adaptation en CMS.
 2. Maîtrise des fonctionnalités du CMS (éditeur de blocs, templates).
-3. Pertinence de la méthode et des questionnements (dérouillardise dans la recherche de solutions).
+3. Pertinence de la méthode et des questionnements (débrouillardise dans la recherche de solutions).
 
 ## Planning ⏰
 
@@ -40,4 +40,5 @@ Contraintes définies :
 11 mai : travail  
 25 mai : travail  
 1er juin : travail  
-**8 juin :** rendu en début de leçon (8h15). 
+8 juin : travail
+**16 juin :** rendu en début de leçon (8h15).

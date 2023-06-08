@@ -164,3 +164,5 @@ Bonus:
 ## Cours N°12 - 4 mai
 
 Démarrage du projet [Design 2 CMS](design2cms.html).
+
+Les séances du 11 mai, 25 mai, 8 juin sont dédiés à la conception des sites avec WordPress.
