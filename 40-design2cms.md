@@ -22,7 +22,7 @@ Contraintes définies :
 - Ne pas hésiter à appliquer du "custom CSS" si c'est pertinent.
 - Nous ne tenons pas compte des "cookie banners", vous n'êtes pas obligé de les implémenter. 
 
-## Production à rendre 📦
+## Production à rendre 📥
 
 - Le site accessible en ligne.
 - Un rapport écrit qui décrit le processus, explique les points ayant posé des questionnements, décrit les trouvailles et astuces découvertes. Longueur: environ une page A4, 400-600 mots.
