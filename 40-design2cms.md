@@ -4,6 +4,8 @@ title: Design to CMS
 permalink: design2cms.html
 ---
 
+**Dates et rendu : 27 avril – 16 juin 2023**
+
 ## Objectifs ⛳️
 
 Réaliser un site avec un CMS, sur la base d’un modèle visuel. Appliquer les méthodes apprises durant ce cours sur un cas concret et réaliste.
@@ -25,7 +27,7 @@ Contraintes définies :
 ## Production à rendre 📥
 
 - Le site accessible en ligne.
-- Un rapport écrit qui décrit le processus, explique les points ayant posé des questionnements, décrit les trouvailles et astuces découvertes. Longueur: environ une page A4, 400-600 mots.
+- Un rapport écrit qui décrit votre processus, explique les points ayant posé des questionnements, décrit les trouvailles et astuces découvertes. Longueur: environ une page A4, 400-600 mots.
 
 ## Critères d’évaluation ✅
 
