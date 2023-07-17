@@ -4,7 +4,7 @@ title: Design to CMS
 permalink: design2cms.html
 ---
 
-**Dates et rendu : 27 avril – 16 juin 2023**
+**Dates et rendu : 27 avril – 15 juin 2023**
 
 ## Objectifs ⛳️
 
@@ -43,4 +43,4 @@ Contraintes définies :
 25 mai : travail  
 1er juin : travail  
 8 juin : travail  
-**16 juin :** rendu en début de leçon (8h15).
+**15 juin :** rendu en début de leçon (8h15).
